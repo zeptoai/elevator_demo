@@ -1,0 +1,5 @@
+nginx
+コピーする編集する
+streamlit
+pillow
+
